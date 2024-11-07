@@ -1,8 +1,8 @@
 {
-  "categoryVersion": "1.0.0",
+  "categoryVersion": "1.0.1",
   "builtInCategories": [
     {
-      "category_id": "PLq71IJk8mCV5H0X__3DXxROWn11hXN8Zk",
+      "category_id": "PLq71IJk8mCV4qyVnGjydfB9PvEaUqozMt",
       "title": "Sunday Suspense",
       "type": "playlist",
       "sourceType": "builtInCategory",
@@ -13,7 +13,7 @@
       "title": "221B Harrison Road",
       "type": "channel",
       "sourceType": "builtInCategory",
-      "language": "hindi"
+      "language": "bengali"
     },
     {
       "category_id": "PLEwpruoePQMLzI6Bn4stj_ww9Rv1o7ktk",
@@ -35,6 +35,25 @@
       "type": "channel",
       "sourceType": "builtInCategory",
       "language": "bengali"
+    },
+    {
+      "category_id": "ClassicGhost",
+      "title": "Classic Ghost Stories",
+      "type": "channel",
+      "sourceType": "builtInCategory",
+      "language": "english"
+    }, {
+      "category_id": "LighthouseHorror",
+      "title": "Lighthouse Horror",
+      "type": "channel",
+      "sourceType": "builtInCategory",
+      "language": "english"
+    }, {
+       "category_id": "ScaryPumpkin",
+      "title": "Scary Pumpkin",
+      "type": "channel",
+      "sourceType": "builtInCategory",
+      "language": "hindi"
     }
   ]
 }
